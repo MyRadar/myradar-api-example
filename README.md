@@ -7,6 +7,7 @@ Quick Start
 ===========
 
 ```python
+   # you will need to have these dependencies available in your python interpreter
    import pandas as pd
    import requests
 
@@ -24,14 +25,14 @@ Tutorials
 =========
 
 * Tutorials and Walk Throughs
-  * [Make a point request and display a plot](/apidocs/make-a-point-request-and-display-a-plot)
-  * [Get a route forecast and make a plot](/apidocs/get-a-route-forecast-and-make-a-plot)
-  * [Make a Plot of Historical Data](/apidocs/make-a-plot-of-historical-data)
-  * [Build a Power Prediction Model](/apidocs/build-a-power-prediction-model)
-  * [Get a route from points](/apidocs/get-a-route-from-points)
-  * [Get a time table for a route](/apidocs/time-table)
+  * [Make a point request and display a plot](make-a-point-request-and-display-a-plot.md)
+  * [Get a route forecast and make a plot](get-a-route-forecast-and-make-a-plot.md)
+  * [Make a Plot of Historical Data](make-a-plot-of-historical-data.md)
+  * [Build a Power Prediction Model](build-a-power-prediction-model.md)
+  * [Get a route from points](get-a-route-from-points.md)
+  * [Get a time table for a route](time-table.md)
 * Data Dictionaries and Reference
-  * [Points](/apidocs/endpoints#points)
-  * [Routes](/apidocs/endpoints#routes)
-  * [Historical Data](/apidocs/endpoints#historical-data)
-  * [Reference](/apidocs/endpoints#data-dictionary)
+  * [Points](endpoints.md#points)
+  * [Routes](endpoints.md#routes)
+  * [Historical Data](endpoints.md#historical-data)
+  * [Reference](endpoints.md#data-dictionary)
