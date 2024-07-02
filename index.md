@@ -12,6 +12,9 @@ Quick Start
 ===========
 
 ```python
+   import pandas as pd
+   import requests
+
    MYRADAR_API_KEY = "YOUR_KEY"
    headers = {
     "Subscription-Key":MYRADAR_API_KEY
